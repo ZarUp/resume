@@ -1,8 +1,6 @@
 Cezar Ainza, Jr.
 ================
 
-![Picture](test.png)
-
 Information Technology Graduate
 -------------------------------
 
