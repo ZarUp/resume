@@ -36,14 +36,6 @@ January 2023 - May 2023
 Projects
 --------
 
-### Online Bookstore
+### Online Pharmacy
 
-A web application that allows users to browse and purchase books online.
-
-Awards & Certifications
------------------------
-
-*   Certificate in Web Development - XYZ Academy
-*   Dean's List - Divine Word College of San Jose
-
-// Optional: Add JavaScript functionality if needed
+A web application that allows users to browse and purchase medecine and other pharmaceutical items online.
