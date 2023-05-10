@@ -1,5 +1,3 @@
-Cezar Ainza Jr's Resume body { font-family: Arial, sans-serif; margin: 0; padding: 0; } .container { max-width: 800px; margin: 20px auto; padding: 20px; background-color: #f2f2f2; border: 1px solid #ccc; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } .header { display: flex; justify-content: space-between; align-items: center; } .header img { width: 100px; height: 100px; object-fit: cover; border-radius: 50%; } h1, h2 { color: #333; } h2 { font-size: 18px; margin-top: 10px; } p { margin-bottom: 5px; }
-
 Cezar Ainza, Jr.
 ================
 
